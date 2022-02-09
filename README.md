@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrCloudston
+- 👋 Hi, I’m Jarad Clouston from Brisbane, Queensland, Australia
 - 👀 I’m interested in Cloud Technology incl AWS CDK, CloudFormation and Terraform
 - 🌱 I’m currently focusing on Certification Updates in AWS and related Technology
 - 💞️ I’m looking to collaborate on anything and everything AWS
