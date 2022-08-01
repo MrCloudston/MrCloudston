@@ -2,8 +2,8 @@
 - 👀 I’m interested in Cloud Technology incl AWS CDK, CloudFormation and Terraform
 - 🌱 I’m currently focusing on Certification Updates in AWS and related Technology
 - 💞️ I’m looking to collaborate on anything and everything AWS
-- 📫 How to reach me, drop me a message or connect via <a href=https://github.com/itoc>Itoc Brisbane, Queensland</a>
-- 👀 See my AWS Credentials (and Other) <a href=https://www.credly.com/users/jarad-clouston/badges>here at Credly</a> or find a full <a href=https://www.linkedin.com/in/jaradclouston/>Profile on LinkedIn</a>
+- 📫 How to reach me, drop me a message or connect via <a href=https://www.linkedin.com/in/jaradclouston/>LinkedIn</a>
+- 👀 See my AWS Credentials (and Other) <a href=https://www.credly.com/users/jarad-clouston/badges>here at Credly</a>
 
 Greetings, I am Jarad and it's nice to meet you.
 
