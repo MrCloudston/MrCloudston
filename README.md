@@ -10,7 +10,7 @@
 
 <p align='center'>
     <a href='https://www.linkedin.com/in/jaradclouston/'>LinkedIn,</a> Jarad Clouston   |
-    <a href='https://https://discordapp.com/users/MrCloudston#8324/'>Discord,</a> MrCloudston
+    <a href='https://discordapp.com/users/MrCloudston#8324'>Discord,</a> MrCloudston
 </p>
 
 <!---
