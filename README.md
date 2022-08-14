@@ -1,8 +1,6 @@
 <h1 align='center'>Serverless and Cloud Solution Architect</h1>
 
-Welcome to Jarad's Profile, Solutions Architect, Professional Services Engineer and Site Realiability.
-
-Open to collaboration and anything serverless, cloud or blockchain related.
+<p align='center'>Open to Collaboration, Solutions Architecture, Professional Services and Site Realiability</p>
 
 <p align='center'>
 <a href='https://www.credly.com/earner/earned/badge/f79b0404-91e3-4c75-8fd1-acd7bd3c61f3'><img src='./content/asa.png' width='120' height='120' alt='AWS Certified Associate Architect' /></a>
@@ -10,10 +8,9 @@ Open to collaboration and anything serverless, cloud or blockchain related.
 <a href='https://www.credly.com/earner/earned/badge/d9b54c12-af67-4763-a076-d0320dba736b'><img src='./content/adev.png' width='120' height='120' alt='AWS Certified Associate Developer' /></a>
 </p>
 
-Please feel free to reachout and engage with me about open source project and public project development,
 <p align='center'>
     <a href='https://www.linkedin.com/in/jaradclouston/'>LinkedIn,</a> Jarad Clouston   |
-    Discord, MrCloudston (MrCloudston#8324)
+    <a href='https://https://discordapp.com/users/MrCloudston#8324/'>Discord,</a> MrCloudston
 </p>
 
 <!---
