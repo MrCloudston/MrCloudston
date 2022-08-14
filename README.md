@@ -12,7 +12,7 @@ Open to collaboration and anything serverless, cloud or blockchain related.
 
 Please feel free to reachout and engage with me about open source project and public project development,
 <p align='center'>
-    <a href='https://www.linkedin.com/in/jaradclouston/'>LinkedIn,</a>Jarad Clouston   |
+    <a href='https://www.linkedin.com/in/jaradclouston/'>LinkedIn,</a> Jarad Clouston   |
     Discord, MrCloudston (MrCloudston#8324)
 </p>
 
