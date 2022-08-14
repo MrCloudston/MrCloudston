@@ -5,7 +5,7 @@ Welcome to Jarad's Profile, Solutions Architect, Professional Services Engineer 
 Open to collaboration and anything serverless, cloud or blockchain related.
 
 <p align='center'>
-<img href='https://www.credly.com/earner/earned/badge/f79b0404-91e3-4c75-8fd1-acd7bd3c61f3' src='./content/asa.png' />
+<img href='https://www.credly.com/earner/earned/badge/f79b0404-91e3-4c75-8fd1-acd7bd3c61f3' src='./content/asa.png' width="120" height="120" />
 ![AWS Certified Associate Architect](/content/asa.png) "AWS Certified Architect")](https://www.credly.com/earner/earned/badge/f79b0404-91e3-4c75-8fd1-acd7bd3c61f3)
 ![HashiCorp Terraform Certified Associate](/content/asa.png) "HashiCorp Terraform Certified")](https://www.credly.com/earner/earned/badge/86ed6258-fcf6-497f-9a39-519444f34bd9)
 ![AWS Certified Associate Developer](/content/asa.png) "AWS Certified Developer")](https://www.credly.com/earner/earned/badge/d9b54c12-af67-4763-a076-d0320dba736b)
