@@ -9,9 +9,10 @@
 </p>
 
 <p align='center'>
-    <a href='https://www.linkedin.com/in/jaradclouston/'>LinkedIn,</a> Jarad Clouston   |
-    <a href='https://discordapp.com/users/MrCloudston#8324'>Discord,</a> MrCloudston    |
-    <a href='https://gist.github.com/GrumpyBum'>Kiwi Legacy,</a> GrumpyBum
+    <a href='https://www.linkedin.com/in/jaradclouston/'>LinkedIn,</a> Jarad Clouston       |
+    <a href='https://discordapp.com/users/MrCloudston#8324'>Discord,</a> MrCloudston        |
+    <a href='https://gist.github.com/GrumpyBum'>Kiwi Legacy,</a> GrumpyBum                  |
+    <a href='https://docs.microsoft.com/en-us/users/jaradclouston/transcript/7o92jt40jez6444'>Microsoft,</a> Jarad Clouston
 </p>
 
 <!---
